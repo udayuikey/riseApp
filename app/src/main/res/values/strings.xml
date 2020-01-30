@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Rise</string>
+    <string name="app_head">\t\tWelcome to Rise! We feel that your mental health is your biggest asset for living a happy and peaceful life:)\n\t\tGet FREE (NO hidden charges, NO third party involvement, yeah really !!!) mental health report by following the responses you submit in the test:)\n\t\t30 Questions require your patience and truthfulness. That\'s all!!!</string>
+    <string name="head_bug">RISE is not highlighting your responses since you can always change for the better. You may cross-check from the popup.</string>
+    <string name="about_basic">\t\t\t\tWorld Health Organization has defined health as, \"Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.\" \n\n\t\t\t\tEveryone is concerned about the physical and social well being but somehow we are disregarding Mental health, which is quite unacceptable.\n\n\t\t\t\tRise is passionate about making you aware of your mental health. The initiative is not associated with any organization and doesn\'t charge for anything in any case whatsoever. It is a free platform dedicated just for you.! \n\n\t\t\t\Dr. Poonam Zope, a professional psychiatrist with an experience of over 9 years in counselling, has framed the questions and report format for us, signifies the credibility of the application.</string>
+    <string name="about_origin">\t\t\t\tOne day I was sitting alone on my terrace. I felt something was wrong. It had been quite a while since I laughed or even smiled.
+The phase lasted for 3 months. I didn\'t want to live like that.\n\n\t\t\t\tThankfully I recovered out of it as I discovered the problem. But I got to know that I am not the only one that suffered. People are going through this problem and I feel this is a big problem.\n\n\t\t\t\tThis is our small effort to help identify your problem if it exists. If it does not, there is always a scope to RISE :)\n\n - Uday Uikey</string>
+    <string name="about_me">About me !!!</string>
+    <string name="website">Website:</string>
+    <string name="doc_website">www.myadvisorfriend.com</string>
+    <string name="doc_email">Email: dr.zopeps@gmail.com</string>
+    <string name="doc_mob">Mobile No: +918793257932</string>
+    <string name="uday">Uday Uikey (Developer | Designer)</string>
+    <string name="uday_sub">Contact me for app and idea related suggestions.</string>
+    <string name="uday_email">Email: uikeyuday@gmail.com</string>
+    <string name="uday_mob">Mobile No: +918421430338</string>
+    <string name="shreya">Shreya Deshmukh (Developer)</string>
+    <string name="shreya_email">Email: deshmukhshreya06@gmail.com</string>
+    <string name="doc_education">\t\t1. M.D. homeopathy in psychiatry from Maharashtra university of Medical Science Nashik.  \n\n\t\t2. Post Graduate Diploma in Psychological Counselling.</string>
+    <string name="doc_info">\t\tDr.  Poonam Zope Completed he MD homeopathy in psychiatry from Maharashtra University of Medical Sciences Nashik. She also have completed the Post Graduate Diploma in Psychological Counselling.  \n\n\t\tShe is trained and skilled in management of mood disorder, mania, anxiety disorders, anger management, obsessive compulsive disorder (OCD), suicidal tendencies, schizophrenia, personality disorders, split personality, attention deficit hyperactive disorder (ADHD).  \n\n\t\tShe have been visiting orphanages, old age homes, remand homes for counselling, medical treatment and support.</string>
+    <string name="test_head">\'\'Patience tests stability and truthfulness character\'\'</string>
+    <string name="submit">SUBMIT</string>
+    <string name="never">Never</string>
+    <string name="rarely">Rarely</string>
+    <string name="several_days">Several Days</string>
+    <string name="often">Often</string>
+    <string name="very_often">Very Often</string>
+    <string name="dr_name">Dr. Poonam Zope</string>
+    <string name="education">Education</string>
+    <string name="dr_name_qual">Dr. Poonam Zope(MD Psychiatry)</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="take_test">TAKE TEST</string>
+    <string name="the_report">The Report</string>
+    <string name="share_text">\t\tIf you like you can share your report with us and we assure you of its confidentiality.\n\t\tName and contact details are not mandatory, just enter your age and gender, click on Submit (We don\'t steal data).\n\t\tIt can help us to RISE and serve the people for their better present and future.</string>
+    <string name="name_not_mandatory">Name (Not Mandatory)</string>
+    <string name="report_bottom">To save this report please take a screenshot. We preferred confidentiality over convenience:)</string>
+    <string name="proceed">Proceed</string>
+    <string name="about">About</string>
+    <string name="origin_of_rise">Origin of Rise !</string>
+    <string name="report_32">\n\tIn case if any parameter lies below 32%, you may need to work harder for yourself. \n\tIf results still don\'t show up, don\'t hesitate to take professional help:)</string>
+    <string name="email_not_mandatory">Email (Not Mandatory)</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+</resources>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#0dc9fffa"
+            card_view:cardElevation="12dp"
+            card_view:cardCornerRadius="3dp"
+            android:layout_margin="20dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="2sp"
+                >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dr_name_qual"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_marginTop="20sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:layout_marginBottom="5sp"
+                />
+
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/about_me"
+                    android:textColor="#003cff"
+                    android:textStyle="bold"
+                    android:id="@+id/contact_tv_about_doc"
+                    android:padding="5sp"
+
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/website"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#003cff"
+                        android:text="@string/doc_website"
+                        android:padding="5dp"
+                        android:id="@+id/contact_tv_doc_website"
+                        />
+
+                </LinearLayout>
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/doc_email"
+                    android:textIsSelectable="true"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    />
+
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/doc_mob"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textIsSelectable="true"
+                    />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#0dc9fffa"
+            card_view:cardElevation="12dp"
+            card_view:cardCornerRadius="3dp"
+            android:layout_margin="20dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="2dp"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/uday"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="5dp"
+                    />
+
+                 <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/uday_sub"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    />
+
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/uday_email"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textIsSelectable="true"
+                    />
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/uday_mob"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textIsSelectable="true"
+                    android:layout_marginBottom="20dp"
+                    />
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#0dc9fffa"
+            card_view:cardElevation="12dp"
+            card_view:cardCornerRadius="3dp"
+            android:layout_margin="20dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="2dp"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/shreya"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="5dp"
+                    />
+
+                <TextView
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/shreya_email"
+                    android:padding="5dp"
+                    android:textIsSelectable="true"
+                    android:textColor="@color/black"
+                    android:layout_marginBottom="20dp"
+                    />
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

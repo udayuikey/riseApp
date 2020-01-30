@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            app:cardBackgroundColor="#0dc9fffa"
+            android:id="@+id/card_main"
+            >
+
+        <TextView
+            android:id="@+id/app_head"
+            android:layout_margin="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_head"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:padding="3dp"
+            />
+        </androidx.cardview.widget.CardView>
+
+         <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/card_main"
+            android:text="@string/take_test"
+            android:background="@drawable/ic_cloud"
+            android:textColor="#000000"
+            android:id="@+id/test_but_main"
+            android:layout_centerHorizontal="true"
+             android:padding="20dp"
+             android:textSize="23sp"
+             android:layout_margin="30dp"
+
+             />
+
+    <Button
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/test_but_main"
+        android:textSize="23sp"
+        android:text="@string/suggestions"
+        android:padding="20dp"
+        android:background="@drawable/ic_cloud"
+        android:textColor="#000000"
+        android:id="@+id/sugg_but_main"
+        android:layout_centerHorizontal="true"
+        />
+
+
+
+    </RelativeLayout>
+</ScrollView>

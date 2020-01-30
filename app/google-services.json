@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71369540717",
+    "firebase_url": "https://rise-6736d.firebaseio.com",
+    "project_id": "rise-6736d",
+    "storage_bucket": "rise-6736d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71369540717:android:79d4e160bf59e981432b64",
+        "android_client_info": {
+          "package_name": "com.projects.uday.rise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71369540717-td4730iqlbh91p731kqbulqahde3p049.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.uday.rise",
+            "certificate_hash": "62de54b02d2c5427a16d104c7b5c90e48e469493"
+          }
+        },
+        {
+          "client_id": "71369540717-kpv88832nunfu9p8ch2rh9b3hd5cefqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvi0ABQ9nrM6Nue2mUjFA9kYKDDPbqi9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71369540717-kpv88832nunfu9p8ch2rh9b3hd5cefqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
